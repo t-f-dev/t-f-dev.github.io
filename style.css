@@ -1,0 +1,68 @@
+html, body, header{
+  height: 100%;
+  width: 100%;
+}
+
+html{
+
+}
+
+body{
+  font-family: 'Raleway', sans-serif;
+  font-style: italic;
+  background-color: #CAD2D5;
+  background-image: url(hero.jpg);
+  background-size: 100% ;
+  background-repeat: no-repeat;
+  background-clip: content;
+  background-position: center;
+}
+
+div.container {
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%;
+  /* display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+  height: 100%; */
+}
+
+div.row{
+
+}
+
+div.sign-up{
+
+}
+
+.hero-text{
+  /* display: flex;
+  justify-content: center;
+  padding: 1%;
+  text-align: center;
+  transition: 1s;
+  background-position: center; */
+}
+
+.hero-text:hover{
+  /* transform: scale(1.5); */
+}
+
+.text-uppercase{
+
+}
+
+.btn-dark{
+
+}
+
+.btn-dark:hover{
+  /* transform: scale(1.5); */
+}
+
+.btn-primary:active {
+
+}
